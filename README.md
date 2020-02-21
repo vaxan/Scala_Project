@@ -22,3 +22,6 @@ To be able to predict who is responsible for the accident given some conditions 
 To be able to predict who is responsible for the accident given some conditions using Spark ML algorithm Random Forest.
 
 In order to predict casualty class that is the person responsible for the accident which is classified into 3 classes those are Driver, Passenger, Pedestrian I have used random forest classifier. Using this model I was able to achieve an accuracy of 0.89(89%).
+
+
+Visualization of the analysis performed on the raised question in the readme description part. Visualization is done using Python Seaborn library.
