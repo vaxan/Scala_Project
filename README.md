@@ -9,8 +9,10 @@ Lookup: contains the text description of all variable code in the three files. E
 
 As part of the data analysis project tries to answer the below questions.
 1. Does weather have any influence on accidents?
+
 2.Most casualties when an accident occurs?
 Casualty refers to the person(passenger, driver, etc.) who are injured from the accident it can be (fatal, serious, slight)
+
 3.Time series analysis of accident(Year/Month/Time).
 To be able to predict who is responsible for the accident given some conditions using Spark ML algorithm Random Forest.
 
