@@ -17,4 +17,8 @@ Casualty refers to the person(passenger, driver, etc.) who are injured from the 
 To be able to predict who is responsible for the accident given some conditions using Spark ML algorithm Random Forest.
 
 
- 
+ Random Forest Classifier
+
+To be able to predict who is responsible for the accident given some conditions using Spark ML algorithm Random Forest.
+
+In order to predict casualty class that is the person responsible for the accident which is classified into 3 classes those are Driver, Passenger, Pedestrian I have used random forest classifier. Using this model I was able to achieve an accuracy of 0.89(89%).
